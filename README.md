@@ -56,12 +56,6 @@
 <img src="https://streak-stats.demolab.com/?user=Sanika0923&theme=radical" height="150"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-* ⭐ Solved **120+ DSA problems** on HackerRank & LeetCode
-* ⭐ 2-Star in Python & C++ on HackerRank
 
 ---
 
