@@ -23,35 +23,12 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,react,nodejs,mongodb,mysql,html,css,git,github,linux" />
 </p>
 
-### 💻 Languages
-
-C, C++, Java, Python, JavaScript, TypeScript
-
-### 🌐 Web Development
-
-HTML5, CSS3, React.js, Node.js
-
-### 🗄️ Databases
-
-MySQL, MongoDB
-
-### ⚙️ Tools & Platforms
-
-Git, GitHub, VS Code, Linux
-
-### 🎨 UI/UX
-
-Figma, Adobe XD (Wireframing & Prototyping)
-
-### 🧠 Core Concepts
-
-Data Structures, Algorithms, OOP, REST APIs, DBMS
 
 
 ---
