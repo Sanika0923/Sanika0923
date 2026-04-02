@@ -13,8 +13,8 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 B.E. Computer Engineering Student (CGPA: 8.73)
-* 💻 Strong in **Data Structures & Algorithms (120+ problems solved)**
+* 🎓 B.E. Computer Engineering Student
+* 💻 Strong in **Data Structures & Algorithms **
 * 🤖 Passionate about **AI & Web Development**
 * 🚀 Building real-world projects using **Java, Python, React & Node.js**
 * 🎯 Goal: Become a **Software Developer / Full Stack Engineer**
